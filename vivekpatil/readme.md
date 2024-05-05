@@ -4,7 +4,7 @@
 - 📫 How to reach me : you can mail me on my
      e-mail - vivekp9442@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Aspiring AI/ML Engineer Eager to Leverage Basics in Python,C++,
+- ⚡ Fun fact: " Aspiring AI/ML Engineer Eager to Leverage Basics in Python,C++,
       Statistics, and Data Structures to Drive Success."
 
 <!---
