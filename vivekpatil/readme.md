@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vivek (vasu)
+- 👋 Hi, I’m vivek patil (vasu)
 - 👀 I’m interested in Artificial intelligence & ML and cybersecurity 
 - 🌱 I’m currently learning Bachelor of technology In Artificial intelligence and machine learning 
 - 📫 How to reach me : you can mail me on my
