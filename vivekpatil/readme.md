@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bachelor of technology In Artificial intelligence and machine learning 
 - 📫 How to reach me : you can mail me on my
      e-mail - vivekp9442@gmail.com
-     linkedin - VIVEK PATIL
+     linkedin - VIVEK N PATIL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: " Aspiring AI/ML Engineer Eager to Leverage Basics in Python,C++,
       Statistics, and Data Structures to Drive Success."
